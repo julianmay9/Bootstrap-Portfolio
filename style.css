@@ -24,9 +24,8 @@ body {
     text-align: justify;
 }
 
-#card-img {
-    margin-left: 15px;
-    margin-bottom: 15px;
+.card-img {
+    height: 180px;
 }
 
 .card-header {
